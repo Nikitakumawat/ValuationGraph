@@ -1,0 +1,46 @@
+{
+    "valuations": [
+      {
+        "id": 0,
+        "class": "Common",
+        "currency": "$",
+        "valuationPrice": 7000000,
+        "pricePerShare": 16.29695
+      },
+      {
+        "id": 1,
+        "class": "Series A1 Preferred",
+        "currency": "$",
+        "valuationPrice": 37000000,
+        "pricePerShare": 11.29695
+      },
+      {
+        "id": 2,
+        "class": "Common",
+        "currency": "$",
+        "valuationPrice": 1000000,
+        "pricePerShare": 11.29695
+      },
+      {
+        "id": 3,
+        "class": "New Round",
+        "currency": "$",
+        "valuationPrice": 5000000,
+        "pricePerShare": 15.29695
+      },
+      {
+        "id": 4,
+        "class": "Series A1 Preferred",
+        "currency": "$",
+        "valuationPrice": 4000000,
+        "pricePerShare": 11.29695
+      },
+      {
+        "id": 5,
+        "class": "Series A Preferred",
+        "currency": "$",
+        "valuationPrice": 3000000,
+        "pricePerShare": 14.29695
+      }
+    ]
+  }
